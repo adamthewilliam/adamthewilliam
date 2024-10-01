@@ -4,6 +4,10 @@
   <h2>My Tech Stack</h2>
   
   [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,azure,react,ts,js,html,css,rabbitmq,redis,postgres,docker,kubernetes,githubactions)](https://skillicons.dev)
+
+  ##:trophy: My Stats##
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamthewilliam)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
