@@ -17,7 +17,7 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamthewilliam&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/leetadamf?theme=unicorn&font=Inter)
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/leetadamf?theme=nord&font=Inter)
 </div>
 
 
