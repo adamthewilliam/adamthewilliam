@@ -11,9 +11,5 @@
   
   [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,react,ts,js,nodejs,tailwind,html,css,rabbitmq,redis,postgres,azure,terraform,docker,kubernetes,cloudflare,grafana,githubactions)](https://skillicons.dev)
 
-  <h2>:trophy: My Stats</h2>
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamthewilliam&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamthewilliam&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
