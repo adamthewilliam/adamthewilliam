@@ -11,5 +11,7 @@
   
   [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,react,ts,js,nodejs,tailwind,html,css,rabbitmq,redis,postgres,azure,terraform,docker,kubernetes,cloudflare,grafana,githubactions)](https://skillicons.dev)
 
+  <h2>My Stats</h2>
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamthewilliam&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
