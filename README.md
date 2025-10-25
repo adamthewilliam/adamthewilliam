@@ -9,7 +9,7 @@
 
   <h2>My Tech Stack</h2>
   
-  [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,rust,react,ts,js,nodejs,tailwind,html,css,rabbitmq,redis,postgres,azure,terraform,docker,kubernetes,cloudflare,grafana,githubactions)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,rust,tauri,react,ts,js,nodejs,bun,express,graphql,tailwind,html,css,rabbitmq,redis,postgres,mongodb,azure,gcp,terraform,docker,kubernetes,cloudflare,grafana,githubactions)](https://skillicons.dev)
 
   <h2>My Stats</h2>
 
