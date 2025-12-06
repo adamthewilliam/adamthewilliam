@@ -10,8 +10,4 @@
   <h2>My Tech Stack</h2>
   
   [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,rust,tauri,react,astro,ts,js,nodejs,bun,express,graphql,tailwind,html,css,rabbitmq,redis,postgres,mongodb,azure,gcp,terraform,docker,kubernetes,cloudflare,grafana,githubactions)](https://skillicons.dev)
-
-  <h2>My Stats</h2>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamthewilliam&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
