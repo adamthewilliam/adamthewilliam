@@ -18,7 +18,7 @@
       <img src="https://raw.githubusercontent.com/adamthewilliam/adamthewilliam/main/assets/ogs/alertu.png" width="280" alt="Alertu"/>
     </a>
     &nbsp;
-    <a href="https://gitvibe.dev">
+    <a href="https://gitvibe.dev/meme-studio">
       <img src="https://raw.githubusercontent.com/adamthewilliam/adamthewilliam/main/assets/ogs/gitvibe.jpg" width="280" alt="GitVibe"/>
     </a>
   </p>
