@@ -15,7 +15,7 @@
     </a>
     &nbsp;
     <a href="https://alertu.io">
-      <img src="https://raw.githubusercontent.com/adamthewilliam/adamthewilliam/main/assets/ogs/alertu.webp" width="280" alt="Alertu"/>
+      <img src="https://raw.githubusercontent.com/adamthewilliam/adamthewilliam/main/assets/ogs/alertu.png" width="280" alt="Alertu"/>
     </a>
     &nbsp;
     <a href="https://gitvibe.dev">
