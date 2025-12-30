@@ -16,17 +16,17 @@
   <br/>
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/adam-ferguson-7259b6121/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+    <a href="https://www.linkedin.com/in/adam-ferguson-7259b6121/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   </div>
 
   <h2>My Projects</h2>
   
   <p>
-    <a href="https://bytefolio.app"><img src="https://raw.githubusercontent.com/adamthewilliam/adamthewilliam/main/assets/ogs/bytefolio.png" width="280" alt="Bytefolio"/></a>
+    <a href="https://bytefolio.app" target="_blank"><img src="https://raw.githubusercontent.com/adamthewilliam/adamthewilliam/main/assets/ogs/bytefolio.png" width="280" alt="Bytefolio"/></a>
     &nbsp;
-    <a href="https://alertu.io"><img src="https://raw.githubusercontent.com/adamthewilliam/adamthewilliam/main/assets/ogs/alertu.png" width="280" alt="Alertu"/></a>
+    <a href="https://alertu.io" target="_blank"><img src="https://raw.githubusercontent.com/adamthewilliam/adamthewilliam/main/assets/ogs/alertu.png" width="280" alt="Alertu"/></a>
     &nbsp;
-    <a href="https://gitvibe.dev/meme-studio"><img src="https://raw.githubusercontent.com/adamthewilliam/adamthewilliam/main/assets/ogs/gitvibe.jpg" width="280" alt="GitVibe"/></a>
+    <a href="https://gitvibe.dev/meme-studio" target="_blank"><img src="https://raw.githubusercontent.com/adamthewilliam/adamthewilliam/main/assets/ogs/gitvibe.jpg" width="280" alt="GitVibe"/></a>
   </p>
 
   <h2>My Tech Stack</h2>
