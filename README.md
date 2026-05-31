@@ -10,7 +10,7 @@
   <p>
     Building innovative products with AI and aspiring founder<br/>
     Committed to pushing a meaningful git commit every day.<br/>
-    <i>Interests: AI • LLMs • Full-Stack • Infrastructure • 3D printing • Gym </i>
+    <i>Interests: AI • Computer Science • Gym 3D • printing</i>
   </p>
 
   <br/>
