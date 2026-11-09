@@ -21,12 +21,12 @@
 
   <h2>Building now</h2>
 
-  <h3>Ocheo</h3>
+  <h3><a href="https://ocheo-web-preview-dev.adamf26051998.workers.dev" target="_blank">Ocheo</a></h3>
   <p>
     Runs a darts tournament from entry to final: the draw, live scoring at every board and a venue TV.<br/>
     <sub>React 19 · TanStack Router &amp; Query · Effect · Drizzle · Cloudflare Workers &amp; D1</sub>
   </p>
-  <img src="assets/projects/ocheo-hero.jpg" width="800" alt="Ocheo landing page: 'Darts tournament software, from the local club to the open.' above a live control desk"/>
+  <a href="https://ocheo-web-preview-dev.adamf26051998.workers.dev" target="_blank"><img src="assets/projects/ocheo-hero.jpg" width="800" alt="Ocheo landing page: 'Darts tournament software, from the local club to the open.' above a live control desk"/></a>
   <p>
     <img src="assets/projects/ocheo-live.jpg" width="260" alt="Ocheo public tournament page with live scores from every board"/>
     <img src="assets/projects/ocheo-tv.jpg" width="260" alt="Ocheo venue TV showing group standings and the match on each board"/>
