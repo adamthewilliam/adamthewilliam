@@ -10,7 +10,7 @@
   <p>
     Building innovative products with AI and aspiring founder<br/>
     Committed to pushing a meaningful git commit every day.<br/>
-    <i>Interests: Computer Science • Building computers • AI • 3D printing • Gym • Gaming (OSRS, Age of Empires 2 DE, PUBG, CSGO) </i>
+    <i>Interests: Computer Science • Building products and computers • AI • 3D printing • Gym • Gaming (OSRS, Age of Empires 2 DE, PUBG, CSGO) </i>
   </p>
 
   <br/>
