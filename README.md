@@ -45,6 +45,19 @@
     <img src="assets/projects/kitling-discover.jpg" width="395" alt="Kitling Discover: popular skill collections ranked by installs, each one click to install"/>
   </p>
 
+  <br/>
+
+  <h3><a href="https://github.com/adamthewilliam/grepika" target="_blank">grepika</a></h3>
+  <p>
+    An MCP server that gives AI coding agents ranked code search instead of pages of raw grep&nbsp;output.<br/>
+    <sub>Rust · SQLite FTS5 · tree-sitter · ast-grep</sub>
+  </p>
+  <p>
+    <a href="https://www.npmjs.com/package/@agentika/grepika" target="_blank"><img src="https://img.shields.io/npm/v/@agentika/grepika?style=flat-square&label=npm" alt="npm version"/></a>
+    <a href="https://github.com/adamthewilliam/grepika" target="_blank"><img src="https://img.shields.io/github/stars/adamthewilliam/grepika?style=flat-square" alt="GitHub stars"/></a>
+  </p>
+  <a href="https://github.com/adamthewilliam/grepika" target="_blank"><img src="assets/projects/grepika-benchmark.jpg" width="800" alt="Bar chart: grepika returns smaller results than ripgrep on 8 of 9 benchmark queries, from 20.6% to 93.8% fewer bytes (mean 61.4%); impl.*for is 5.3% larger"/></a>
+
   <h2>Previously</h2>
 
   <p>
