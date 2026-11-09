@@ -56,7 +56,7 @@
     <a href="https://www.npmjs.com/package/@agentika/grepika" target="_blank"><img src="https://img.shields.io/npm/v/@agentika/grepika?style=flat-square&label=npm" alt="npm version"/></a>
     <a href="https://github.com/adamthewilliam/grepika" target="_blank"><img src="https://img.shields.io/github/stars/adamthewilliam/grepika?style=flat-square" alt="GitHub stars"/></a>
   </p>
-  <a href="https://github.com/adamthewilliam/grepika" target="_blank"><img src="assets/projects/grepika-benchmark.jpg" width="800" alt="Bar chart: grepika returns smaller results than ripgrep on 8 of 9 benchmark queries, from 20.6% to 93.8% fewer bytes (mean 61.4%); impl.*for is 5.3% larger"/></a>
+  <a href="https://github.com/adamthewilliam/grepika" target="_blank"><img src="assets/projects/grepika-sizes.jpg" width="800" alt="Dot plot, log scale: response size per query for grepika and ripgrep. grepika stays between 782 B and 3.2 KB; ripgrep ranges from 985 B to 46 KB. grepika is smaller on 8 of 9 queries, from 1.3x to 16x, and 1.05x larger on impl.*for. Geometric mean: 4.0x smaller."/></a>
 
   <h2>Previously</h2>
 
