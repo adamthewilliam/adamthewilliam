@@ -40,7 +40,10 @@
     A local-first Mac app that syncs your AI skills and prompts to Claude Code, Codex, Cursor&nbsp;and&nbsp;OpenCode.<br/>
     <sub>Rust · GPUI</sub>
   </p>
-  <img src="assets/projects/kitling-app.jpg" width="800" alt="Kitling desktop app listing 148 skills and prompts shared across AI harnesses"/>
+  <p>
+    <img src="assets/projects/kitling-app.jpg" width="395" alt="Kitling library listing 148 skills and prompts shared across AI harnesses"/>
+    <img src="assets/projects/kitling-discover.jpg" width="395" alt="Kitling Discover: popular skill collections ranked by installs, each one click to install"/>
+  </p>
 
   <h2>Previously</h2>
 
