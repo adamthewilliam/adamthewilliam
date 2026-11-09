@@ -23,8 +23,8 @@
 
   <h3><a href="https://ocheo-web-preview-dev.adamf26051998.workers.dev" target="_blank">Ocheo</a></h3>
   <p>
-    Runs a darts tournament from entry to final: the draw, live scoring at every board and a venue TV.<br/>
-    <sub>React 19 · TanStack Router &amp; Query · Effect · Drizzle · Cloudflare Workers &amp; D1</sub>
+    Run a darts tournament without a spreadsheet. Boards score live, even when the pub&nbsp;Wi&#8209;Fi&nbsp;drops.<br/>
+    <sub>React · TanStack · Effect · Drizzle · Cloudflare Workers</sub>
   </p>
   <a href="https://ocheo-web-preview-dev.adamf26051998.workers.dev" target="_blank"><img src="assets/projects/ocheo-hero.jpg" width="800" alt="Ocheo landing page: 'Darts tournament software, from the local club to the open.' above a live control desk"/></a>
   <p>
@@ -37,7 +37,7 @@
 
   <h3>Kitling</h3>
   <p>
-    A native macOS app that keeps one library of skills, prompts and contexts in sync across your AI coding tools.<br/>
+    A local-first Mac app that syncs your AI skills and prompts to Claude Code, Codex, Cursor&nbsp;and&nbsp;OpenCode.<br/>
     <sub>Rust · GPUI</sub>
   </p>
   <img src="assets/projects/kitling-hero.jpg" width="800" alt="Kitling landing page: 'Your AI kit, everywhere.'"/>
