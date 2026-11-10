@@ -26,7 +26,7 @@
     Run a darts tournament without a spreadsheet. Boards score live, even when the pub&nbsp;Wi&#8209;Fi&nbsp;drops.<br/>
     <sub>React · TanStack · Effect · Drizzle · Cloudflare Workers</sub>
   </p>
-  <a href="https://ocheo-web-preview-dev.adamf26051998.workers.dev" target="_blank"><img src="assets/projects/ocheo-hero.jpg" width="800" alt="Ocheo landing page: 'Darts tournament software, from the local club to the open.' above a live control desk"/></a>
+  <a href="https://ocheo-web-preview-dev.adamf26051998.workers.dev" target="_blank"><img src="assets/projects/ocheo-landing.jpg" width="800" alt="Ocheo landing page: 'Darts tournament software, from the local club to the open.' above a live control desk"/></a>
   <p>
     <img src="assets/projects/ocheo-live.jpg" width="260" alt="Ocheo public tournament page with live scores from every board"/>
     <img src="assets/projects/ocheo-tv.jpg" width="260" alt="Ocheo venue TV showing group standings and the match on each board"/>
