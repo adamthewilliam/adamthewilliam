@@ -58,6 +58,15 @@
   </p>
   <a href="https://github.com/adamthewilliam/grepika" target="_blank"><img src="assets/projects/grepika-sizes.jpg" width="800" alt="Dot plot, log scale: response size per query for grepika and ripgrep. grepika stays between 782 B and 3.2 KB; ripgrep ranges from 985 B to 46 KB. grepika is smaller on 8 of 9 queries, from 1.3x to 16x, and 1.05x larger on impl.*for. Geometric mean: 4.0x smaller."/></a>
 
+  <h2>Orca plugins</h2>
+
+  <h3><a href="https://github.com/adamthewilliam/orca-diff-breakdown" target="_blank">Diff Breakdown</a></h3>
+  <p>
+    A sidebar panel for <a href="https://github.com/stablyai/orca" target="_blank">Orca</a> that sorts a branch's changes by kind, so you can tell at a glance whether it's mostly code, mostly tests, or hiding a&nbsp;migration.<br/>
+    <sub>TypeScript · Orca plugin API</sub>
+  </p>
+  <a href="https://github.com/adamthewilliam/orca-diff-breakdown" target="_blank"><img src="https://raw.githubusercontent.com/adamthewilliam/orca-diff-breakdown/main/assets/screenshot-overview.png" width="800" alt="Diff Breakdown in Orca: a branch's changes as a share bar and one row per kind, from Runtime to Generated, with each kind's share of the changed lines"/></a>
+
   <h2>Previously</h2>
 
   <p>
