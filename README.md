@@ -67,6 +67,15 @@
   </p>
   <a href="https://github.com/adamthewilliam/orca-diff-breakdown" target="_blank"><img src="https://raw.githubusercontent.com/adamthewilliam/orca-diff-breakdown/main/assets/screenshot-overview.png" width="800" alt="Diff Breakdown in Orca: a branch's changes as a share bar and one row per kind, from Runtime to Generated, with each kind's share of the changed lines"/></a>
 
+  <br/>
+
+  <h3><a href="https://github.com/adamthewilliam/orca-pr-tour" target="_blank">PR Tour</a></h3>
+  <p>
+    A review queue for <a href="https://github.com/stablyai/orca" target="_blank">Orca</a>: your own agent writes a guided tour of every PR waiting for you, with the risk, findings and ready-to-post comments, and you post the review to GitHub from the&nbsp;guide.<br/>
+    <sub>TypeScript · Orca plugin API · Claude Code / Codex</sub>
+  </p>
+  <a href="https://github.com/adamthewilliam/orca-pr-tour" target="_blank"><img src="https://raw.githubusercontent.com/adamthewilliam/orca-pr-tour/main/assets/cover.png" width="800" alt="A PR Tour guide in Orca: what, why and impact, a medium risk callout, findings by severity, the changes by area and a 13-stop tour of the PR"/></a>
+
   <h2>Previously</h2>
 
   <p>
